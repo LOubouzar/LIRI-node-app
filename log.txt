@@ -1,0 +1,38 @@
+[object Object][object Object][object Object][object Object][object Object][object Object]------------------------------ begin ------------------------------
+Title: Bambi
+Year: 1942
+Imdb Rating: 7.3
+Rotten Tomatoes Rating: N/A
+Country: USA
+Language: English
+Plot: The story of a young deer growing up in the forest.
+Actors: Hardie Albright, Stan Alexander, Bobette Audrey, Peter Behn
+------------------------------ end ------------------------------
+[object Object][object Object][object Object][object Object][object Object][object Object]------------------------------------------------------------
+Artist: BØRNS
+Song name: Electric Love
+Album Name: Dopamine
+Preview Link: null
+------------------------------------------------------------
+------------------------------------------------------------
+Lineup: undefined
+Venue Name: undefined
+Location: undefined,undefined
+Date: undefined
+------------------------------------------------------------
+[object Object]------------------------------------------------------------
+Lineup: undefined
+------------------------------------------------------------
+[object Object]------------------------------------------------------------
+Lineup: [object Object],[object Object]
+------------------------------------------------------------
+[object Object]------------------------------------------------------------
+Lineup: undefined
+------------------------------------------------------------
+[object Object]------------------------------------------------------------
+Lineup: undefined
+Venue Name: undefined
+Location: undefined,undefined
+Date: undefined
+------------------------------------------------------------
+[object Object]
